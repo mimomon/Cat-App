@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">CatApp</string>
+
+    <string name="cats_name">Jenis Kucing</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Balinese</item>
+        <item>Bengal</item>
+        <item>Birman</item>
+        <item>Biru Rusia</item>
+        <item>Chincilla</item>
+        <item>Korat</item>
+        <item>Scottish Fold</item>
+        <item>Siamese</item>
+        <item>Tiffanie</item>
+        <item>Turkish Van</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Kucing Balinese, yang juga dikenal sebagai keturunan murni kucing Siam berbulu panjang, sebenarnya tidak berasal dari Balinese, Indonesia, seperti yang banyak dipercaya orang. Ras ini mendapat nama dari keanggunan dan keluwesan penari Balinese yang bisa dikatakan menyerupai kucing tersebut..Karakteristik kucing Balinese dikenal dengan penggelapan warna bulu pada bagian tubuh tertentu (point coloration) yang mencolok, dengan warna mata biru safir yang menambah lagi daya tarik mereka. Selain penampilan mereka yang menawan, kucing Balinese memiliki bulu yang lembut dengan panjang sedang, disertai ekor yang berbulu lebat. Kecerdasan, keceriaan, dan sifat sosial kucing cantik ini diwarisi dari kucing Siam, nenek moyang mereka.</item>
+        <item>Dari Sejarah kucing Bengal diketahui bahwa kucing macan tutul (Leopardette) atau kucing Bengal, seperti yang dikenal sekarang, adalah hasil dari percobaan yang gagal. Pada tahun 1970-an, para ilmuwan mencoba mengawin-silangkan kucing domestik berbulu pendek dengan kucing liar, macan tutul kecil - asli Asia Tenggara. Percobaan tersebut dilakukan untuk memperkenalkan kekebalan alami kucing liar terhadap penyakit Leukemia (Feline Leukaemia - FeLV) pada kucing domestik, namun sayangnya tidak berhasil. Tetapi, hibrida yang dihasilkan disilangkan lagi dengan berbagai jenis keturunan kucing seperti kucing Egyptian Mau, kucing Bombay, kucing Abyssinian, dan kucing British Shorthair, yang mana kemudian menghasilkan ras cantik ini – kucing Bengal.</item>
+        <item>Hingga saat ini, tidak ada informasi pasti tentang asal-usul kucing Birman. Menurut laman The Cat Fanciers Association, legenda mengatakan bahwa kucing Birman datang dari sebuah kuil milik pendeta di Burma kuno (sekarang Myanmar). Ada juga yang mengatakan bahwa kucing Birman dikirim dari Asia ke Prancis sebagai ucapan terima kasih kepada dua orang Inggris yang mempertahankan kuil dari invasi, Teori lain mengklaim bahwa seorang yang kaya raya, Cornelius Vanderbilt, membeli kucing ini secara diam-diam dari sebuah kuil dan mengirimnya ke seorang perempuan di Prancis. Terlepas dari teori-teori tersebut, satu hal yang pasti adalah kucing Birman pertama kali dikenal dan ditampilkan di Prancis pada tahun 1920-an. </item>
+        <item>Russian blue merupakan salah satu ras kucing yang punya bulu berwarna abu-abu kebiruan yang punya kepribadian menawan. Kucing russian blue dikenal cerdas, tenang, lucu, tapi cukup pemalu ketika bersama dengan orang asing. Namun, jika sudah akrab dengan pemiliknya, russian blue akan menjadi kucing yang paling setia Seperti namanya kucing russian blue berasal dari sebuah pelabuhan bernama Arkhangelsk di Rusia. Ras alami kucing ini ternyata berasal dari Inggris dan Eropa Utara pada 1860-an. Kucing ini pertama kali dikembangbiakan di Rusia dan negara-negara Skandinavia pasca Perang Dunia II.</item>
+        <item>Chinchilla adalah kucing yang mempesona dengan bulu berwarna silver, sedangkan kucing Persians yang asli datang dari Turki dan mereka memiliki mantel bulu putih yang tebal. Kucing yang mudah bergaul dan ramah ini berukuran besar dengan tubuh yang berbentuk persegi juga sedikit bulat dan muka yang pipih juga telinganya yang kecil. Mereka memiliki mata hijau yang berkilau sama dengan bulunya. Bulunya panjang dan halus, namun yang juga menarik perhatian adalah ekornya yang berbulu tebal. Keseluruhan warnanya adalah putih dengan hitam di bagian ujung memberikan kesan gemerlap.</item>
+        <item>Kucing Korat, yang dikenal dengan wajah berbentuk hati dan penampilan mereka yang menggemaskan, pada dasarnya berasal dari Thailand. Mereka dihormati sebagai simbol keberuntungan dan kekayaan, dan telah menjadi populer sebagai hewan peliharaan pilihan untuk banyak keluarga. Dengan mantel berwarna perak-biru yang memukau dan mata hijau yang mempesona, kucing Korat memancarkan keanggunan dan keindahan mereka. . Kucing cerdas ini dikenal dengan sifat mereka yang lembut dan penuh kasih, menjadikan Korat teman yang luar biasa baik bagi individu maupun keluarga. </item>
+        <item>Scottish Fold adalah kucing yang memiliki penampilannya sendiri. Kenyataannya, dengan kupingnya yang terlipat menyembul dari permukaan, kepalanya yang bulat terlihat seperti kucing manis yang menggunakan helm! Scottish Fold pertama kali lahir di perkebunan di Skotlandia pada tahun 1961, semenjak itu mereka dikawinkan dengan British Shorthair untuk menciptakan keturunan yang berukuran sedang, dengan mata bulatnya yang besar dan telinga yang terlipat.</item>
+        <item>Kucing Siam sangat sensitif terhadap temperatur di sekelilingnya dan tidak cocok berada di iklim yang dingin karena mantel bulu mereka yang pendek. Meskipun mereka lebih suka di lingkungan hangat, tetapi ras yang sangat cantik ini juga tidak begitu menyukai iklim yang terlalu panas. Kucing Siam termasuk salah satu ras kucing tertua yang tercatat. Mereka adalah keturunan dari keluarga kucing Felidae. Beberapa jenis kucing lain hasil turunan dari Kucing Siam, adalah kucing Bali, kucing Jawa, dan kucing Bengal.</item>
+        <item>Kucing yang mempesona ini muncul dari program perkembangbiakan dari Burmilla yang menggunakan Burmese dan Chincilla Persian sebagai titik awal. Sekarang, banyak perkumpulan kucing dan peternak berusaha keras dalam mengembangkan jenis ini sampai mencapai standar setinggi mungkin, jadi kucing ini dapat memiliki segalanya. Jika kamu ingin memiliki kucing yang memiliki kecantikan, kepandaian dan kepribadian, dan kualitas tambahan dengan bulunya yang sedikit panjang dan tidak akan kusut atau rontok, maka Tiffanie adalah hewan yang cocok untukmu</item>
+        <item>Turkish Van adalah jenis kucing yang langka dan cukup tua yang memiliki rasa cinta yang luar biasa terhadap air. Turkish Van atau “swimming cat” berkembang di wilayah sekitar danau Van di Turki dan terbiasa berenang ke pelabuhan untuk menyapa perahu nelayan yang datang, dengan harapan mendapatkan makanan gratis. Sekarang jenis kucing ini berkembang di Iran, Irak, barat daya Uni Soviet, nama mereka dirubah menjadi Turkish Van untuk menghindari kekeliruan dengan Turkish Angora. </item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/balinese</item>
+        <item>@drawable/bengal</item>
+        <item>@drawable/birrman</item>
+        <item>@drawable/biru_rusia</item>
+        <item>@drawable/chincilla</item>
+        <item>@drawable/korat</item>
+        <item>@drawable/scottish_fold</item>
+        <item>@drawable/siamese</item>
+        <item>@drawable/tiffanie</item>
+        <item>@drawable/turkish_van</item>
+    </integer-array>
+
+    <string name="my_email">jkamagi41@gmail.com</string>
+    <string name="my_name">Jonathan Alezandro Zaverius Kamagi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+
+    <string name="share">Bagikan</string>
+</resources>
