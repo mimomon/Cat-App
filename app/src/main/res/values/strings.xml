@@ -43,8 +43,10 @@
         <item>@drawable/turkish_van</item>
     </integer-array>
 
-    <string name="my_email">jkamagi41@gmail.com</string>
-    <string name="my_name">Jonathan Alezandro Zaverius Kamagi</string>
+    <string name="my_email">Monica Poluakan 21013001
+    Julinda Rondonuwu 21013043
+    Uria Dutu 21013039</string>
+    <string name="my_name">Mobile Programming 2023</string>
     <string name="list">List</string>
     <string name="grid">Grid</string>
     <string name="about">About</string>
